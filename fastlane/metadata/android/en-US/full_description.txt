@@ -1,0 +1,4 @@
+* You can create an inventory of your pantry using this app
+* This app will remind you whenever an item is about to expire
+* You can check where did you put an item
+* You can check in the inventory before buying a new item

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Grocery Manager Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+    <string name="empty_list">Empty list</string>
+    <string name="add_item">Add item</string>
+    <string name="item_name">Item name</string>
+    <string name="expiry_date">Expiry date</string>
+    <string name="save_item">Save Item</string>
+    <string name="cancel_item">Cancel</string>
+    <string name="update_item">Update</string>
+    <string name="whereAbouts">Whereabouts</string>
+    <string name="itemHeader">Items</string>
+    <string name="expiryDateHeader">Expiry date</string>
+    <string name="whereAboutsHeader">Whereabout</string>
+    <string-array name="sortBy">
+        <item id="0">↑ Item Name</item>
+        <item id="1">↓ Item Name</item>
+        <item id="2">↑ Expiry Date</item>
+        <item id="3">↓ Expiry Date</item>
+        <item id="4">↑ Whereabouts</item>
+        <item id="5">↓ Whereabouts</item>
+    </string-array>
+
+    <string-array name="showOnly">
+        <item id="0">Show all items</item>
+        <item id="1">Show only expired items</item>
+        <item id="2">Show only non-expired items</item>
+        <item id="3">Show only soon to be expired items</item>
+    </string-array>
+</resources>
